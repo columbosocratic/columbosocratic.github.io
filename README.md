@@ -1,13 +1,3 @@
 <link rel="shortcut icon" type="image/png" href="https://pbs.twimg.com/profile_images/1050033443864698881/dL8Lc2ds_400x400.jpg"/>
 
-Topics: <a href="https://columbosocratic.github.io/#machine-consciousness">Machine Consciousness</a>, <a href="https://columbosocratic.github.io/#culture">Culture</a>
-
-# Machine Consciousness
-
-### Machine Learning will fail
 Machine learning will not translate into machine consciousness. Milestones in machine learning do place us closer to that ultimate goal, but learning seems only a marginal element of what consciousness is. This is largely acknowledged, animals of all varieties learn. The evolution of machine consciousness however is *not even* on the timeline of machine learning - it is a seperate innovation altogether. Objective machine learning (of the kind that can play video games) must meld with arbitrary irrational forms of learning (decision making) for us to get even close. For the development of those arbitrary irrational stances, which must develop organically in the mind of the computer, some degree of 'consciousness' is needed so that they develop internal coherence. Consciousness is really reflection, and a computer must be able to arbitrate between these miscellanious irrational decisions (i.e. green is good, red is bad) as if they are objective and meaningful. Part of that must be the encoding of outcomes of evolution in humans which allow our own management of the fragile structure of beliefs and values. In other words, 'desire' of the highly primitive kind (sexual, mimetic, even hunger!) we find in ourselves need find its way into this development. The irony of this all is that if we want to reach machine consciousness we must necessarily reduce its projected power-level first, create a model of a basic human and then begin removing layers till we reach somekind of hybrid between the calculator and the human being.
-
-# Culture
-
-### Voyeurism, USA
-It says something interesting about America's cultural voyeurism that prostitution is illegal till filmed (becoming pornography). As if to say, the crime of prostitution is "We don't get to see it". Ala psychadelics.
