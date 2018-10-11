@@ -2,11 +2,7 @@
 
 *Thoughts and feelings of columbo socratic*
 
-Topics: 
-
-<a href="https://columbosocratic.github.io/#machine-consciousness">Machine Consciousness</a>
-
-<a href="https://columbosocratic.github.io/#culture">Culture</a>
+Topics: <a href="https://columbosocratic.github.io/#machine-consciousness">Machine Consciousness</a>, <a href="https://columbosocratic.github.io/#culture">Culture</a>
 
 # Machine Consciousness
 
