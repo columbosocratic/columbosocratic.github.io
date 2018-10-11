@@ -3,7 +3,7 @@
 *thoughts and feelings of columbo socratic*
 
 Topics: 
-<a href="https://columbosocratic.github.io/#machine-consciousness">#machine-consciousness</a>
+<a href="https://columbosocratic.github.io/#machine-consciousness">machine consciousness</a>
  
 
 # Machine Consciousness
