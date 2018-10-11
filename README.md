@@ -1,6 +1,6 @@
 <p align="center"> 
   <img src="https://avatars3.githubusercontent.com/u/17939037?s=200">
-  
+  *@columbosocratic*
 </p>
 
 ### Oct. 10. Machine Consciousness 1
