@@ -1,6 +1,6 @@
 <link rel="shortcut icon" type="image/png" href="https://pbs.twimg.com/profile_images/1050033443864698881/dL8Lc2ds_400x400.jpg"/>
 
-*thoughts and feelings of columbo socratic*
+*Thoughts and feelings of columbo socratic*
 
 Topics: 
 <a href="https://columbosocratic.github.io/#machine-consciousness">machine consciousness</a>
