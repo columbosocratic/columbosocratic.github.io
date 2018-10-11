@@ -1,1 +1,3 @@
-# columbosocratic.github.io
+# columbo socratic
+
+### Oct. 10.
