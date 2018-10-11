@@ -2,6 +2,10 @@
 
 *thoughts and feelings of columbo socratic*
 
+Topics: 
+<a href="https://columbosocratic.github.io/#machine-consciousness">#machine-consciousness</a>
+ 
+
 # Machine Consciousness
 
 ### Oct. 10. Machine Learning will fail
