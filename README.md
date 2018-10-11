@@ -1,1 +1,0 @@
-# Columbo Socratic
