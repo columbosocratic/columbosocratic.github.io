@@ -1,7 +1,5 @@
 <link rel="shortcut icon" type="image/png" href="https://pbs.twimg.com/profile_images/1050033443864698881/dL8Lc2ds_400x400.jpg"/>
 
-*Thoughts and feelings of __columbo socratic__*
-
 Topics: <a href="https://columbosocratic.github.io/#machine-consciousness">Machine Consciousness</a>, <a href="https://columbosocratic.github.io/#culture">Culture</a>
 
 # Machine Consciousness
