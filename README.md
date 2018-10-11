@@ -1,5 +1,7 @@
+<html>
 <title>columbosocratic</title>
 <link rel="shortcut icon" type="image/png" href="https://pbs.twimg.com/profile_images/1050033443864698881/dL8Lc2ds_400x400.jpg"/>
+</html>
 
 *thoughts and feelings of columbo socratic*
 
