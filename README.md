@@ -1,2 +1,1 @@
-# columbosocratic
-## Thoughts evading reading
+# Columbo Socratic
