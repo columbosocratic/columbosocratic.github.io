@@ -1,5 +1,6 @@
 <p align="center"> 
-  ![alt text](https://avatars3.githubusercontent.com/u/17939037?s=200) 
+  <img src="https://avatars3.githubusercontent.com/u/17939037?s=200">
+  
 </p>
 
 ### Oct. 10. Machine Consciousness 1
