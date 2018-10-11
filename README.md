@@ -10,4 +10,4 @@ Machine learning will not translate into machine consciousness. Milestones in ma
 # Culture
 
 ### Oct. 10. Voyeurism, USA
-It says something interesting about America's cultural voyeurism that prostitution is illegal till filmed (becoming pornography). As if to say, the crime of prostitution is "We don't get to see it".
+It says something interesting about America's cultural voyeurism that prostitution is illegal till filmed (becoming pornography). As if to say, the crime of prostitution is "We don't get to see it". Ala psychadelics.
