@@ -4,19 +4,19 @@
 
 /* -------------------------------------------------------- */
 
-const NAME = "Reyes";
+const NAME = "";
 
 const CARDS = [
   {
-    name: "Discord",
-    icon: "ri-discord-fill",
-    link: "https://discord.com/app",
+    name: "Wattle",
+    icon: "ri-graduation-cap-line",
+    link: "https://wattlecourses.anu.edu.au/my/courses.php",
     color: "#5865F2",
   },
   {
-    name: "Reddit",
-    icon: "ri-reddit-fill",
-    link: "https://www.reddit.com/",
+    name: "Libgen",
+    icon: "",
+    link: "https://libgen.is/",
     color: "#FF4500",
   },
   {
